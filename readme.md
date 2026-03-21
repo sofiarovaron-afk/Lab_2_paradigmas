@@ -1,9 +1,6 @@
 Este repositório contém a refatoração de um código base fornecido em aula. O objetivo foi aplicar conceitos de modularização e melhoria de lógica.
 
-Alunos: Anna Heloisy Raymundo Nicolau 
-             Heloísa Bragatto Beraldo 
-             Rodrigo Gabriel de Araujo Durigan     
-             Sofia Tiengo Rovaron
+Alunos: Anna Heloisy Raymundo Nicolau, Heloísa Bragatto Beraldo, Rodrigo Gabriel de Araujo Durigan e Sofia Tiengo Rovaron.
 
 Exercício: Aplicar os conceitos de Abstração Procedural em códigos legados.
 Resolver problemas clássicos de programação não estruturada.
